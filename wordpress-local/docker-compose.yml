@@ -12,3 +12,7 @@ mysql:
   - MYSQL_ROOT_PASSWORD=password
   - MYSQL_DATABASE=my-wpdb
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 21cdc01c657eb1574d47cb39513ec8d032907de3
